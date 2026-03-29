@@ -29,14 +29,14 @@ PROJECT-REPORT_DIGITAL_LITERACY.pdf(Full 1500+ word report)
 │ └── kaggle_profile.png)
 
 ( task-3-platforms/
-│ ├── hackerrank.png,hackerrank1.png
-│ ├── quiz-form.png,quiz-form(2).png,quiz-form(3).png
-│ └── responses-sheet.png)
+--hackerrank.png,hackerrank1.png
+, quiz-form.png,quiz-form(2).png,quiz-form(3).png
+, responses-sheet.png)
 
 (task-4-email-etiquette/ 
-│ ├── EMAILDRAFTS.pdf
-│ └── social-media-checklist.md)
+-- EMAILDRAFTS.pdf
+,social-media-checklist.md)
 
 (task-5-cybercrime/
-├── casestudy.md (UPI Fraud )
-└── prevention-checklist.md (10 safety tips))
+-- casestudy.md (UPI Fraud )
+, prevention-checklist.md (10 safety tips))
