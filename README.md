@@ -6,13 +6,17 @@ Navigating through online tools, verify information, protect privacy, and levera
 "Digital literacy isn't just using tech—it's mastering it safely"**
  Project Tasks Completed 
 
-| **Task** **Deliverable** | **Status** | **Files/Links** |
 
- **Task 1**  Prezi Infographic   Complete task-1-presentation/INFOGRAPHIC-SLIDE.pdf
- **Task 2**  GitHub+LinkedIn+Kaggle  Live task-2-portfolio screenshots 
- **Task 3**  HackerRank + Google Quiz   100% task-3-platforms/ [GOOGLE FORM QUIZ]
- **Task 4**  Pro Emails + Social Checklist   Ready  task-4-email-etiquette/
- **Task 5**  UPI Fraud Case Study  Critical  task-5-CYBERCRIME/ 
+
+ Task 1  Prezi Infographic   Complete task-1-presentation/INFOGRAPHIC-SLIDE.pdf
+ 
+ Task 2  GitHub+LinkedIn+Kaggle  Live task-2-portfolio screenshots 
+ 
+ Task 3  HackerRank + Google Quiz   100% task-3-platforms/ [GOOGLE FORM QUIZ]
+ 
+ Task 4  Pro Emails + Social Checklist   Ready  task-4-email-etiquette/
+ 
+ Task 5  UPI Fraud Case Study  Critical  task-5-CYBERCRIME/ 
 
 
 Repository Structure
