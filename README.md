@@ -24,9 +24,9 @@ PROJECT-REPORT_DIGITAL_LITERACY.pdf(Full 1500+ word report)
  --INFOGRAPH.pdf (Prezi screenshot))
  
 (task-2-portfolio/
-│ ├── github-readme.png
-│ ├── linkedin_profile.png
-│ └── kaggle_profile.png)
+-- github-readme.png,
+ linkedin_profile.png,
+kaggle_profile.png)
 
 ( task-3-platforms/
 --hackerrank.png,hackerrank1.png
