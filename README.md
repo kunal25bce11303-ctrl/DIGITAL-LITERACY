@@ -16,22 +16,22 @@ Navigating through online tools, verify information, protect privacy, and levera
 
 
 Repository Structure
-digital-literacy-project/
-|├── README.md (You're reading it!)|
-|├── PROJECT-REPORT_DIGITAL_LITERACY.pdf(Full 1500+ word report)
-|├── task-1-presentation/
-│ └── INFOGRAPH.pdf (Prezi screenshot)|
-|├── task-2-portfolio/
+digital-literacy-project/----
+README.md (You're reading it!),
+PROJECT-REPORT_DIGITAL_LITERACY.pdf(Full 1500+ word report)
+(task-1-presentation/
+ --INFOGRAPH.pdf (Prezi screenshot))
+(task-2-portfolio/
 │ ├── github-readme.png
 │ ├── linkedin_profile.png
-│ └── kaggle_profile.png|
-|├── task-3-platforms/
+│ └── kaggle_profile.png)
+( task-3-platforms/
 │ ├── hackerrank.png,hackerrank1.png
 │ ├── quiz-form.png,quiz-form(2).png,quiz-form(3).png
-│ └── responses-sheet.png|
-|├── task-4-email-etiquette/ 
+│ └── responses-sheet.png)
+(task-4-email-etiquette/ 
 │ ├── EMAILDRAFTS.pdf
-│ └── social-media-checklist.md|
-|└── task-5-cybercrime/
+│ └── social-media-checklist.md)
+(task-5-cybercrime/
 ├── casestudy.md (UPI Fraud )
-└── prevention-checklist.md (10 safety tips)|
+└── prevention-checklist.md (10 safety tips))
